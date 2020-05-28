@@ -148,4 +148,5 @@ char getword()
 /* fold: folds longer lines in two or more shorter lines */
 void fold(char buffer[], int max_line)
 {
+	
 }
